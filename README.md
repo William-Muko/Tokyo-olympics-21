@@ -1,2 +1,2 @@
 # Tokyo-olympics-21
-A Tokyo Olympics Expolatory Data Analysis.
+A Tokyo Olympics Exploratory Data Analysis.
